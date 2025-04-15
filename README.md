@@ -26,7 +26,7 @@
   ![image](https://github.com/user-attachments/assets/4c10922a-5468-49e6-92cf-ebef5ee6e3c8)
 
   ##### WAVEFORM
-  ![image](https://github.com/user-attachments/assets/87f15eef-121d-4dc9-91bb-3ada300f5134)
+![image](https://github.com/user-attachments/assets/57f59591-4bb4-45f3-84aa-9355e4000783)
 
 
 
