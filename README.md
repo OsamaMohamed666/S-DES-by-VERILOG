@@ -7,11 +7,13 @@
 
 
 ## The Encryption algorithm involves five functions: 
-1) An initial permutation (IP); 
+1) An initial permutation (IP).
 2) A complex function labeled fK, which involves both permutation and substitution operations and depends on a key input. 
-3) A simple permutation function that switches (SW) the two halves of the data; 
+3) A simple permutation function that switches (SW) the two halves of the data.
 4) The function fK again. 
 5) A permutation function that is the inverse of the initial permutation (IP–1).
+6) ##### We can concisely express the encryption algorithm as a composition of functions:
+   ![image](https://github.com/user-attachments/assets/9cf7854c-f437-4291-8b5d-257020cb8e4f)
 
 
 ## Block Diagram 
